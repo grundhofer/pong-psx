@@ -35,3 +35,8 @@
 
 > ### Gameplay
 > ![](docs/Gameplay.png)
+
+#### Credits to
+
+- Wituz: https://www.wituz.com
+- PSXDEV Network: http://www.psxdev.net
