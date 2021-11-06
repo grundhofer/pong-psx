@@ -27,10 +27,11 @@
 - Wituz's Video Tutorial Series: https://www.wituz.com/make-playstation-1-games.html
 
 - PSXDEV Network (homebrew community): http://www.psxdev.net/forum/index.php
+
 #### Screenshots
 
 > ### Boot Logo
-> ![](docs/PSX Boot.png)
+> ![](docs/PSXBoot.png)
 
 > ### Gameplay
->![](docs/Gameplay.png)
+> ![](docs/Gameplay.png)
