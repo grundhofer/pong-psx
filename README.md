@@ -29,8 +29,7 @@
 - PSXDEV Network (homebrew community): http://www.psxdev.net/forum/index.php
 
 #### Video
-
-![](https://youtu.be/Of2ZMc9h27s)
+> [![Pong PSX homebrew](http://img.youtube.com/vi/Of2ZMc9h27s/0.jpg)](http://www.youtube.com/watch?v=Of2ZMc9h27s "Pong PSX homebrew")
 
 #### Screenshots
 
