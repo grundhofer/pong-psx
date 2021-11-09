@@ -29,15 +29,15 @@
 - PSXDEV Network (homebrew community): http://www.psxdev.net/forum/index.php
 
 #### Video
-> [![Pong PSX homebrew](http://img.youtube.com/vi/Of2ZMc9h27s/0.jpg)](http://www.youtube.com/watch?v=Of2ZMc9h27s "Pong PSX homebrew")
+[![Pong PSX homebrew](http://img.youtube.com/vi/Of2ZMc9h27s/0.jpg)](http://www.youtube.com/watch?v=Of2ZMc9h27s "Pong PSX homebrew")
 
 #### Screenshots
 
-> ### Boot Logo
-> ![](docs/PSXBoot.png)
+### Boot Logo
+![](docs/PSXBoot.png)
 
-> ### Gameplay
-> ![](docs/Gameplay.png)
+### Gameplay
+![](docs/Gameplay.png)
 
 #### Credits to
 
