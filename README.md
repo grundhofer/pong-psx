@@ -28,6 +28,10 @@
 
 - PSXDEV Network (homebrew community): http://www.psxdev.net/forum/index.php
 
+#### Video
+
+![](https://youtu.be/Of2ZMc9h27s)
+
 #### Screenshots
 
 > ### Boot Logo
